@@ -9,3 +9,5 @@ Basic OOP Principals using PHP
 3.  visit the link to your server <tt>host-name/</tt> and you will see the contents of the php folder
 
 4.  click any folder that you like and see the results
+
+5.  understand the code, play around with the classes (parts of the code is commented to help)
